@@ -1,6 +1,6 @@
 import java.util.Scanner;
 public class Main {
-
+/* I have neither given nor received any unauthorised aid on this piece of work*/
     public static void main(String[] args) {
       Scanner scanner = new Scanner (System.in);
       System.out.println("Input num one ");
